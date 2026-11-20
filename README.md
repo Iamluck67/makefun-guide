@@ -8,9 +8,9 @@ make.fun is a place where you and your AI coding agent build software together a
 
 I wrote this guide because I went from zero to my first submitted entry, and the steps are simpler than they look. Here is the whole path, one step at a time.
 
-> **New here? Sign up with my link:** [https://make.fun/r/mdej0xnd](https://make.fun/r/mdej0xnd)
+> **New here? Sign up with my link:** [https://make.fun/r/e8crgxjw](https://make.fun/r/e8crgxjw)
 >
-> My referral code is `mdej0xnd`. Using it costs you nothing and helps me out.
+> My referral code is `e8crgxjw`. Using it costs you nothing and helps me out.
 
 ## How make.fun works
 
@@ -32,7 +32,7 @@ Good to know up front: most bounties are free to enter (one with a fee says so o
 
 ## 1. Create your account
 
-Go to [make.fun](https://make.fun/r/mdej0xnd) and sign up. You can sign in with a Solana wallet, Google, Apple, Discord, or GitHub. If you use my link above, my referral code `mdej0xnd` is carried automatically. Link your GitHub on your profile if the bounty you want takes a repository — the repo you enter must be owned by the GitHub account linked to your make.fun account.
+Go to [make.fun](https://make.fun/r/e8crgxjw) and sign up. You can sign in with a Solana wallet, Google, Apple, Discord, or GitHub. If you use my link above, my referral code `e8crgxjw` is carried automatically. Link your GitHub on your profile if the bounty you want takes a repository — the repo you enter must be owned by the GitHub account linked to your make.fun account.
 
 ## 2. Pick a bounty
 
